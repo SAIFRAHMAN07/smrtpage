@@ -1,1 +1,1 @@
-a app in whhich you can types notes
+This is a simple and responsive web application that allows users to create, save, and manage their personal notes directly from the browser. It's built using HTML, CSS, and JavaScript — no login required, just open and start typing!
